@@ -1,0 +1,1359 @@
+    0.000000000	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.000100521	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.000401980	C	WS	       0	   0	4813	         flush-179:0	M
+    0.004179740	C	WAS	 4071696	  56	 145	     jbd2/mmcblk0p28	J
+    0.005161927	C	WS	 4071752	   8	 145	     jbd2/mmcblk0p28	J
+    0.005287604	C	WS	 4071752	   0	 145	     jbd2/mmcblk0p28	J
+    0.006437084	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.006657761	C	WS	       0	   0	4813	         flush-179:0	M
+    0.009086979	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.009168021	C	WAS	 8596544	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.009248490	C	WAS	 8599960	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.009492500	C	WS	       0	   0	4813	         flush-179:0	M
+    0.010374479	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.010630104	C	WS	       0	   0	4813	         flush-179:0	M
+    0.013574843	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.013658906	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.013910729	C	WS	       0	   0	4813	         flush-179:0	M
+    0.014800729	C	WAS	 4071760	  16	 145	     jbd2/mmcblk0p28	J
+    0.015738542	C	WS	 4071776	   8	 145	     jbd2/mmcblk0p28	J
+    0.015805104	C	WS	 4071776	   0	 145	     jbd2/mmcblk0p28	J
+    0.016672761	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.016913698	C	WS	       0	   0	4813	         flush-179:0	M
+    0.019080208	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.019161927	C	WAS	 8596544	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.019292656	C	WAS	 8599960	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.019485260	C	WS	       0	   0	4813	         flush-179:0	M
+    0.020360833	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.020603854	C	WS	       0	   0	4813	         flush-179:0	M
+    0.023528125	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.023659531	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.023861146	C	WS	       0	   0	4813	         flush-179:0	M
+    0.024757291	C	WAS	 4071784	  16	 145	     jbd2/mmcblk0p28	J
+    0.025692136	C	WS	 4071800	   8	 145	     jbd2/mmcblk0p28	J
+    0.025758854	C	WS	 4071800	   0	 145	     jbd2/mmcblk0p28	J
+    0.026636146	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.026881667	C	WS	       0	   0	4813	         flush-179:0	M
+    0.029058177	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.029140313	C	WAS	 8596496	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.029219896	C	WAS	 8599896	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.029413073	C	WS	       0	   0	4813	         flush-179:0	M
+    0.030327812	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.030521615	C	WS	       0	   0	4813	         flush-179:0	M
+    0.033409844	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.033540781	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.033743281	C	WS	       0	   0	4813	         flush-179:0	M
+    0.034631823	C	WAS	 4071808	  16	 145	     jbd2/mmcblk0p28	J
+    0.035518073	C	WS	 4071824	   8	 145	     jbd2/mmcblk0p28	J
+    0.035584011	C	WS	 4071824	   0	 145	     jbd2/mmcblk0p28	J
+    0.036502969	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.036697761	C	WS	       0	   0	4813	         flush-179:0	M
+    0.038909167	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.039038906	C	WAS	 8599904	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.039120469	C	WAS	 8600008	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.039313958	C	WS	       0	   0	4813	         flush-179:0	M
+    0.040178021	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.040372604	C	WS	       0	   0	4813	         flush-179:0	M
+    0.042986406	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.043068333	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.043267760	C	WS	       0	   0	4813	         flush-179:0	M
+    0.044539010	C	WAS	 4071832	  16	 145	     jbd2/mmcblk0p28	J
+    0.045462032	C	WS	 4071848	   8	 145	     jbd2/mmcblk0p28	J
+    0.045548594	C	WS	 4071848	   0	 145	     jbd2/mmcblk0p28	J
+    0.046473959	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.046668438	C	WS	       0	   0	4813	         flush-179:0	M
+    0.048934271	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.049016719	C	WAS	 8596512	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.049090833	C	WAS	23485984	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.049335833	C	WS	       0	   0	4813	         flush-179:0	M
+    0.050172656	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.050368333	C	WS	       0	   0	4813	         flush-179:0	M
+    0.053296458	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.053378958	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.053580156	C	WS	       0	   0	4813	         flush-179:0	M
+    0.054497604	C	WAS	 4071856	  16	 145	     jbd2/mmcblk0p28	J
+    0.055389948	C	WS	 4071872	   8	 145	     jbd2/mmcblk0p28	J
+    0.055505886	C	WS	 4071872	   0	 145	     jbd2/mmcblk0p28	J
+    0.056378698	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.056574531	C	WS	       0	   0	4813	         flush-179:0	M
+    0.058786823	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.058866510	C	WAS	 8599872	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.058946563	C	WAS	 8599912	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.059189479	C	WS	       0	   0	4813	         flush-179:0	M
+    0.060006979	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.060201719	C	WS	       0	   0	4813	         flush-179:0	M
+    0.062805000	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.062887760	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.063139687	C	WS	       0	   0	4813	         flush-179:0	M
+    0.064368646	C	WAS	 4071880	  16	 145	     jbd2/mmcblk0p28	J
+    0.065255312	C	WS	 4071896	   8	 145	     jbd2/mmcblk0p28	J
+    0.065369270	C	WS	 4071896	   0	 145	     jbd2/mmcblk0p28	J
+    0.066261198	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.066504636	C	WS	       0	   0	4813	         flush-179:0	M
+    0.068644427	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.068725729	C	WAS	 8599808	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.068854115	C	WAS	 8600008	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.069046979	C	WS	       0	   0	4813	         flush-179:0	M
+    0.069887188	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.070129479	C	WS	       0	   0	4813	         flush-179:0	M
+    0.072675208	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.072756771	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.073006198	C	WS	       0	   0	4813	         flush-179:0	M
+    0.073912187	C	WAS	 4071904	  16	 145	     jbd2/mmcblk0p28	J
+    0.074844271	C	WS	 4071920	   8	 145	     jbd2/mmcblk0p28	J
+    0.074910521	C	WS	 4071920	   0	 145	     jbd2/mmcblk0p28	J
+    0.075753959	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.076000729	C	WS	       0	   0	4813	         flush-179:0	M
+    0.078167865	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.078250104	C	WAS	 8596520	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.078378854	C	WAS	 8599872	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.078574844	C	WS	       0	   0	4813	         flush-179:0	M
+    0.079450938	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.079697708	C	WS	       0	   0	4813	         flush-179:0	M
+    0.082251406	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.082382708	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.082584844	C	WS	       0	   0	4813	         flush-179:0	M
+    0.089147344	C	WAS	 4071928	  16	 145	     jbd2/mmcblk0p28	J
+    0.090089583	C	WS	 4071944	   8	 145	     jbd2/mmcblk0p28	J
+    0.090155156	C	WS	 4071944	   0	 145	     jbd2/mmcblk0p28	J
+    0.091508333	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.091706510	C	WS	       0	   0	4813	         flush-179:0	M
+    0.093878281	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.094010052	C	WAS	 8599912	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.094089791	C	WAS	 8599968	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.094285156	C	WS	       0	   0	4813	         flush-179:0	M
+    0.095155937	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.095350885	C	WS	       0	   0	4813	         flush-179:0	M
+    0.097903281	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.098034583	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.098236406	C	WS	       0	   0	4813	         flush-179:0	M
+    0.099206198	C	WAS	 4071952	  16	 145	     jbd2/mmcblk0p28	J
+    0.100090885	C	WS	 4071968	   8	 145	     jbd2/mmcblk0p28	J
+    0.100157187	C	WS	 4071968	   0	 145	     jbd2/mmcblk0p28	J
+    0.101082292	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.101277969	C	WS	       0	   0	4813	         flush-179:0	M
+    0.102855625	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.102985885	C	WAS	 8599960	  16	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.103186510	C	WS	       0	   0	4813	         flush-179:0	M
+    0.104026666	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.104272239	C	WS	       0	   0	4813	         flush-179:0	M
+    0.106695469	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.106826719	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.107030000	C	WS	       0	   0	4813	         flush-179:0	M
+    0.107943698	C	WAS	 4071976	  16	 145	     jbd2/mmcblk0p28	J
+    0.108880469	C	WS	 4071992	   8	 145	     jbd2/mmcblk0p28	J
+    0.108947604	C	WS	 4071992	   0	 145	     jbd2/mmcblk0p28	J
+    0.109902708	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.110101667	C	WS	       0	   0	4813	         flush-179:0	M
+    0.112255729	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.112386823	C	WAS	 8596512	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.112460521	C	WAS	23485960	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.112655521	C	WS	       0	   0	4813	         flush-179:0	M
+    0.113538437	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.113734323	C	WS	       0	   0	4813	         flush-179:0	M
+    0.116345052	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.116478229	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.116681198	C	WS	       0	   0	4813	         flush-179:0	M
+    0.117647500	C	WAS	 4072000	  16	 145	     jbd2/mmcblk0p28	J
+    0.118538698	C	WS	 4072016	   8	 145	     jbd2/mmcblk0p28	J
+    0.118605573	C	WS	 4072016	   0	 145	     jbd2/mmcblk0p28	J
+    0.119581042	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.119802083	C	WS	       0	   0	4813	         flush-179:0	M
+    0.122018958	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.122150885	C	WAS	 8596560	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.122255677	C	WAS	 8596600	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.122554844	C	WS	       0	   0	4813	         flush-179:0	M
+    0.123471510	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.123666406	C	WS	       0	   0	4813	         flush-179:0	M
+    0.126265469	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.126347656	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.126550990	C	WS	       0	   0	4813	         flush-179:0	M
+    0.127512396	C	WAS	 4072024	  16	 145	     jbd2/mmcblk0p28	J
+    0.128403698	C	WS	 4072040	   8	 145	     jbd2/mmcblk0p28	J
+    0.128518750	C	WS	 4072040	   0	 145	     jbd2/mmcblk0p28	J
+    0.129431406	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.129628958	C	WS	       0	   0	4813	         flush-179:0	M
+    0.131827760	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.131908802	C	WAS	 8596600	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.131989010	C	WAS	 8599904	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.132233542	C	WS	       0	   0	4813	         flush-179:0	M
+    0.133108437	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.133304896	C	WS	       0	   0	4813	         flush-179:0	M
+    0.136249792	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.136331719	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.136583802	C	WS	       0	   0	4813	         flush-179:0	M
+    0.137512865	C	WAS	 4072048	  16	 145	     jbd2/mmcblk0p28	J
+    0.138384479	C	WS	 4072064	   8	 145	     jbd2/mmcblk0p28	J
+    0.138449479	C	WS	 4072064	   0	 145	     jbd2/mmcblk0p28	J
+    0.139402552	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.139600521	C	WS	       0	   0	4813	         flush-179:0	M
+    0.141805208	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.141885417	C	WAS	 8596552	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.141965625	C	WAS	 8599968	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.142212239	C	WS	       0	   0	4813	         flush-179:0	M
+    0.143061666	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.143258281	C	WS	       0	   0	4813	         flush-179:0	M
+    0.145859636	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.145941354	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.146196511	C	WS	       0	   0	4813	         flush-179:0	M
+    0.147130990	C	WAS	 4072072	  16	 145	     jbd2/mmcblk0p28	J
+    0.148459115	C	WS	 4072088	   8	 145	     jbd2/mmcblk0p28	J
+    0.148524636	C	WS	 4072088	   0	 145	     jbd2/mmcblk0p28	J
+    0.149466771	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.149665104	C	WS	       0	   0	4813	         flush-179:0	M
+    0.151901667	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.151982917	C	WAS	 8596584	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.152063229	C	WAS	 8599872	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.152308281	C	WS	       0	   0	4813	         flush-179:0	M
+    0.153176875	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.153373906	C	WS	       0	   0	4813	         flush-179:0	M
+    0.155969740	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.156051563	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.156257084	C	WS	       0	   0	4813	         flush-179:0	M
+    0.157554479	C	WAS	 4072096	  16	 145	     jbd2/mmcblk0p28	J
+    0.158447865	C	WS	 4072112	   8	 145	     jbd2/mmcblk0p28	J
+    0.158513490	C	WS	 4072112	   0	 145	     jbd2/mmcblk0p28	J
+    0.159476198	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.159674010	C	WS	       0	   0	4813	         flush-179:0	M
+    0.161843802	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.161973177	C	WAS	 8599816	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.162047396	C	WAS	23485976	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.162295781	C	WS	       0	   0	4813	         flush-179:0	M
+    0.163141510	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.163339531	C	WS	       0	   0	4813	         flush-179:0	M
+    0.165949271	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.166030782	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.166234115	C	WS	       0	   0	4813	         flush-179:0	M
+    0.167193334	C	WAS	 4072120	  16	 145	     jbd2/mmcblk0p28	J
+    0.168076250	C	WS	 4072136	   8	 145	     jbd2/mmcblk0p28	J
+    0.168142552	C	WS	 4072136	   0	 145	     jbd2/mmcblk0p28	J
+    0.169093385	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.169292760	C	WS	       0	   0	4813	         flush-179:0	M
+    0.171456979	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.171588333	C	WAS	 8596576	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.171662135	C	WAS	23485960	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.171859427	C	WS	       0	   0	4813	         flush-179:0	M
+    0.172750989	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.172963073	C	WS	       0	   0	4813	         flush-179:0	M
+    0.175725000	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.175792709	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.175988125	C	WS	       0	   0	4813	         flush-179:0	M
+    0.176926719	C	WAS	 4072144	  16	 145	     jbd2/mmcblk0p28	J
+    0.177819011	C	WS	 4072160	   8	 145	     jbd2/mmcblk0p28	J
+    0.177874636	C	WS	 4072160	   0	 145	     jbd2/mmcblk0p28	J
+    0.178790156	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.178976354	C	WS	       0	   0	4813	         flush-179:0	M
+    0.181068385	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.181175417	C	WAS	24071376	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.181241927	C	WAS	 8596496	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.181433646	C	WS	       0	   0	4813	         flush-179:0	M
+    0.182313646	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.182504792	C	WS	       0	   0	4813	         flush-179:0	M
+    0.185127135	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.185194635	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.185390625	C	WS	       0	   0	4813	         flush-179:0	M
+    0.186356615	C	WAS	 4072168	  16	 145	     jbd2/mmcblk0p28	J
+    0.194043385	C	WS	 4072184	   8	 145	     jbd2/mmcblk0p28	J
+    0.194097916	C	WS	 4072184	   0	 145	     jbd2/mmcblk0p28	J
+    0.195020104	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.195211510	C	WS	       0	   0	4813	         flush-179:0	M
+    0.197348802	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.197455990	C	WAS	 8599840	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.197523333	C	WAS	 8599960	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.197714115	C	WS	       0	   0	4813	         flush-179:0	M
+    0.198579792	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.198770208	C	WS	       0	   0	4813	         flush-179:0	M
+    0.201324583	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.201392396	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.201586823	C	WS	       0	   0	4813	         flush-179:0	M
+    0.202505469	C	WAS	 4072192	  16	 145	     jbd2/mmcblk0p28	J
+    0.203356250	C	WS	 4072208	   8	 145	     jbd2/mmcblk0p28	J
+    0.203410937	C	WS	 4072208	   0	 145	     jbd2/mmcblk0p28	J
+    0.204265625	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.204451718	C	WS	       0	   0	4813	         flush-179:0	M
+    0.206625990	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.206732448	C	WAS	24071376	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.206798542	C	WAS	 8596576	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.206986823	C	WS	       0	   0	4813	         flush-179:0	M
+    0.207857240	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.208047813	C	WS	       0	   0	4813	         flush-179:0	M
+    0.210622604	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.210690729	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.210887656	C	WS	       0	   0	4813	         flush-179:0	M
+    0.211780052	C	WAS	 4072216	  16	 145	     jbd2/mmcblk0p28	J
+    0.212623125	C	WS	 4072232	   8	 145	     jbd2/mmcblk0p28	J
+    0.212677760	C	WS	 4072232	   0	 145	     jbd2/mmcblk0p28	J
+    0.213556146	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.213742187	C	WS	       0	   0	4813	         flush-179:0	M
+    0.215886511	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.215994271	C	WAS	 8596504	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.216059740	C	WAS	 8599968	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.216247969	C	WS	       0	   0	4813	         flush-179:0	M
+    0.217557917	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.217747500	C	WS	       0	   0	4813	         flush-179:0	M
+    0.220331302	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.220453698	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.220672031	C	WS	       0	   0	4813	         flush-179:0	M
+    0.221601614	C	WAS	 4072240	  16	 145	     jbd2/mmcblk0p28	J
+    0.222458854	C	WS	 4072256	   8	 145	     jbd2/mmcblk0p28	J
+    0.222512864	C	WS	 4072256	   0	 145	     jbd2/mmcblk0p28	J
+    0.223382604	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.223568541	C	WS	       0	   0	4813	         flush-179:0	M
+    0.225716719	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.225910209	C	WAS	24071360	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.225971771	C	WAS	23485952	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.226151354	C	WS	       0	   0	4813	         flush-179:0	M
+    0.227014948	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.227206042	C	WS	       0	   0	4813	         flush-179:0	M
+    0.230101562	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.230209115	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.230406771	C	WS	       0	   0	4813	         flush-179:0	M
+    0.231306458	C	WAS	 4072264	  16	 145	     jbd2/mmcblk0p28	J
+    0.232165156	C	WS	 4072280	   8	 145	     jbd2/mmcblk0p28	J
+    0.232219531	C	WS	 4072280	   0	 145	     jbd2/mmcblk0p28	J
+    0.233098541	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.233286041	C	WS	       0	   0	4813	         flush-179:0	M
+    0.235393750	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.235566459	C	WAS	24071368	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.235633802	C	WAS	 8599928	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.235814948	C	WS	       0	   0	4813	         flush-179:0	M
+    0.236671146	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.236863386	C	WS	       0	   0	4813	         flush-179:0	M
+    0.239700677	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.239809427	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.240006927	C	WS	       0	   0	4813	         flush-179:0	M
+    0.240888594	C	WAS	 4072288	  16	 145	     jbd2/mmcblk0p28	J
+    0.241795833	C	WS	 4072304	   8	 145	     jbd2/mmcblk0p28	J
+    0.241850104	C	WS	 4072304	   0	 145	     jbd2/mmcblk0p28	J
+    0.242681146	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.242904062	C	WS	       0	   0	4813	         flush-179:0	M
+    0.245069895	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.245177916	C	WAS	 8599816	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.245244114	C	WAS	 8599968	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.245436094	C	WS	       0	   0	4813	         flush-179:0	M
+    0.246268334	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.246460052	C	WS	       0	   0	4813	         flush-179:0	M
+    0.248986563	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.249096094	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.249282396	C	WS	       0	   0	4813	         flush-179:0	M
+    0.250164167	C	WAS	 4072312	  16	 145	     jbd2/mmcblk0p28	J
+    0.251039792	C	WS	 4072328	   8	 145	     jbd2/mmcblk0p28	J
+    0.251094583	C	WS	 4072328	   0	 145	     jbd2/mmcblk0p28	J
+    0.251932656	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.252160885	C	WS	       0	   0	4813	         flush-179:0	M
+    0.254306718	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.254374166	C	WAS	 8596504	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.254481458	C	WAS	 8599952	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.254675208	C	WS	       0	   0	4813	         flush-179:0	M
+    0.255549323	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.255740625	C	WS	       0	   0	4813	         flush-179:0	M
+    0.258244792	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.258352552	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.258549375	C	WS	       0	   0	4813	         flush-179:0	M
+    0.259438438	C	WAS	 4072336	  16	 145	     jbd2/mmcblk0p28	J
+    0.260330729	C	WS	 4072352	   8	 145	     jbd2/mmcblk0p28	J
+    0.260384896	C	WS	 4072352	   0	 145	     jbd2/mmcblk0p28	J
+    0.261214323	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.261441406	C	WS	       0	   0	4813	         flush-179:0	M
+    0.263602343	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.263669896	C	WAS	 8599928	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.263770156	C	WAS	23485952	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.263963541	C	WS	       0	   0	4813	         flush-179:0	M
+    0.264791927	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.264986562	C	WS	       0	   0	4813	         flush-179:0	M
+    0.267537865	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.267646667	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.267842500	C	WS	       0	   0	4813	         flush-179:0	M
+    0.268730625	C	WAS	 4072360	  16	 145	     jbd2/mmcblk0p28	J
+    0.269629010	C	WS	 4072376	   8	 145	     jbd2/mmcblk0p28	J
+    0.269683438	C	WS	 4072376	   0	 145	     jbd2/mmcblk0p28	J
+    0.270536615	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.270785156	C	WS	       0	   0	4813	         flush-179:0	M
+    0.272938906	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.273006719	C	WAS	 8596520	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.273113125	C	WAS	 8599824	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.273294791	C	WS	       0	   0	4813	         flush-179:0	M
+    0.274129687	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.274363906	C	WS	       0	   0	4813	         flush-179:0	M
+    0.276880886	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.276988854	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.277188021	C	WS	       0	   0	4813	         flush-179:0	M
+    0.278074740	C	WAS	 4072384	  16	 145	     jbd2/mmcblk0p28	J
+    0.278969271	C	WS	 4072400	   8	 145	     jbd2/mmcblk0p28	J
+    0.279023750	C	WS	 4072400	   0	 145	     jbd2/mmcblk0p28	J
+    0.279867396	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.280096094	C	WS	       0	   0	4813	         flush-179:0	M
+    0.282217969	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.282285469	C	WAS	 8596552	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.282392604	C	WAS	 8599808	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.282585677	C	WS	       0	   0	4813	         flush-179:0	M
+    0.283410000	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.283643021	C	WS	       0	   0	4813	         flush-179:0	M
+    0.286176354	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.286285521	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.286483229	C	WS	       0	   0	4813	         flush-179:0	M
+    0.287367292	C	WAS	 4072408	  16	 145	     jbd2/mmcblk0p28	J
+    0.288259635	C	WS	 4072424	   8	 145	     jbd2/mmcblk0p28	J
+    0.288314219	C	WS	 4072424	   0	 145	     jbd2/mmcblk0p28	J
+    0.289165417	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.289392448	C	WS	       0	   0	4813	         flush-179:0	M
+    0.291530625	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.291598385	C	WAS	24071352	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.291705417	C	WAS	 8599944	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.291896666	C	WS	       0	   0	4813	         flush-179:0	M
+    0.292694479	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.292925729	C	WS	       0	   0	4813	         flush-179:0	M
+    0.295932917	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.296042604	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.296240261	C	WS	       0	   0	4813	         flush-179:0	M
+    0.303355052	C	WAS	 4072432	  16	 145	     jbd2/mmcblk0p28	J
+    0.304327135	C	WS	 4072448	   8	 145	     jbd2/mmcblk0p28	J
+    0.304381510	C	WS	 4072448	   0	 145	     jbd2/mmcblk0p28	J
+    0.305258906	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.305494427	C	WS	       0	   0	4813	         flush-179:0	M
+    0.307619323	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.307686771	C	WAS	 8596504	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.307793906	C	WAS	 8599952	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.307986771	C	WS	       0	   0	4813	         flush-179:0	M
+    0.308842344	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.309074896	C	WS	       0	   0	4813	         flush-179:0	M
+    0.311949531	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.312058385	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.312258594	C	WS	       0	   0	4813	         flush-179:0	M
+    0.313167135	C	WAS	 4072456	  16	 145	     jbd2/mmcblk0p28	J
+    0.314061093	C	WS	 4072472	   8	 145	     jbd2/mmcblk0p28	J
+    0.314116510	C	WS	 4072472	   0	 145	     jbd2/mmcblk0p28	J
+    0.314984062	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.315214062	C	WS	       0	   0	4813	         flush-179:0	M
+    0.317314375	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.317382552	C	WAS	 8599808	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.317490156	C	WAS	 8599832	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.317681042	C	WS	       0	   0	4813	         flush-179:0	M
+    0.318539115	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.318730365	C	WS	       0	   0	4813	         flush-179:0	M
+    0.321291094	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.321401823	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.321592187	C	WS	       0	   0	4813	         flush-179:0	M
+    0.322815833	C	WAS	 4072480	  16	 145	     jbd2/mmcblk0p28	J
+    0.323717708	C	WS	 4072496	   8	 145	     jbd2/mmcblk0p28	J
+    0.323772343	C	WS	 4072496	   0	 145	     jbd2/mmcblk0p28	J
+    0.324686666	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.324876979	C	WS	       0	   0	4813	         flush-179:0	M
+    0.327000261	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.327109115	C	WAS	 8599832	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.327175729	C	WAS	 8599968	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.327359896	C	WS	       0	   0	4813	         flush-179:0	M
+    0.328224427	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.328417969	C	WS	       0	   0	4813	         flush-179:0	M
+    0.331295417	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.331403489	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.331550677	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.332451614	C	WAS	 4072504	  16	 145	     jbd2/mmcblk0p28	J
+    0.333328802	C	WS	 4072520	   8	 145	     jbd2/mmcblk0p28	J
+    0.333383593	C	WS	 4072520	   0	 145	     jbd2/mmcblk0p28	J
+    0.334251927	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.334389843	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.336537344	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.336604740	C	WAS	24071368	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.336670990	C	WAS	 8596600	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.336812084	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.337708333	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.337849063	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.340716615	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.340785000	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.340931458	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.341884739	C	WAS	 4072528	  16	 145	     jbd2/mmcblk0p28	J
+    0.342728385	C	WS	 4072544	   8	 145	     jbd2/mmcblk0p28	J
+    0.342823229	C	WS	 4072544	   0	 145	     jbd2/mmcblk0p28	J
+    0.343690312	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.343828489	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.345930313	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.346038021	C	WAS	24071376	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.346104375	C	WAS	 8596512	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.346244844	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.347092552	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.347233438	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.350185833	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.350254271	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.350401510	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.351348750	C	WAS	 4072552	  16	 145	     jbd2/mmcblk0p28	J
+    0.352190989	C	WS	 4072568	   8	 145	     jbd2/mmcblk0p28	J
+    0.352245521	C	WS	 4072568	   0	 145	     jbd2/mmcblk0p28	J
+    0.353160885	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.353299583	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.354849635	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.354917552	C	WAS	 8596528	  16	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.355061250	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.355942240	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.356072500	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.358912865	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.358980833	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.359127917	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.360067396	C	WAS	 4072576	  16	 145	     jbd2/mmcblk0p28	J
+    0.360914635	C	WS	 4072592	   8	 145	     jbd2/mmcblk0p28	J
+    0.361010625	C	WS	 4072592	   0	 145	     jbd2/mmcblk0p28	J
+    0.361884531	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.362023698	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.364173906	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.364280312	C	WAS	24071360	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.364339843	C	WAS	23485952	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.364482291	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.365295416	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.365452813	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.368365625	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.368433073	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.368579531	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.369489792	C	WAS	 4072600	  16	 145	     jbd2/mmcblk0p28	J
+    0.370385417	C	WS	 4072616	   8	 145	     jbd2/mmcblk0p28	J
+    0.370439740	C	WS	 4072616	   0	 145	     jbd2/mmcblk0p28	J
+    0.371347604	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.371485260	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.373611823	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.373678698	C	WAS	24071368	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.373779583	C	WAS	23485968	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.373910312	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.374724687	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.374866666	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.377762448	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.377870677	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.378018646	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.378928073	C	WAS	 4072624	  16	 145	     jbd2/mmcblk0p28	J
+    0.379781302	C	WS	 4072640	   8	 145	     jbd2/mmcblk0p28	J
+    0.379875260	C	WS	 4072640	   0	 145	     jbd2/mmcblk0p28	J
+    0.380741719	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.380874010	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.383006302	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.383114323	C	WAS	24071384	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.383175468	C	WAS	23485984	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.383315937	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.384163802	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.384305573	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.387153281	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.387221875	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.387368229	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.388319375	C	WAS	 4072648	  16	 145	     jbd2/mmcblk0p28	J
+    0.389180417	C	WS	 4072664	   8	 145	     jbd2/mmcblk0p28	J
+    0.389235885	C	WS	 4072664	   0	 145	     jbd2/mmcblk0p28	J
+    0.390162604	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.390300104	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.392444687	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.392512083	C	WAS	 8596512	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.392618021	C	WAS	 8599880	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.392759531	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.393592968	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.393734114	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.396297292	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.396365313	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.396513594	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.397415469	C	WAS	 4072672	  16	 145	     jbd2/mmcblk0p28	J
+    0.398324375	C	WS	 4072688	   8	 145	     jbd2/mmcblk0p28	J
+    0.398380313	C	WS	 4072688	   0	 145	     jbd2/mmcblk0p28	J
+    0.399244687	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.399375000	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.401537604	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.401605260	C	WAS	 8599816	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.401671406	C	WAS	 8599856	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.401813489	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.402665156	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.402806823	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.405324947	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.405450834	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.405587552	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.413548698	C	WAS	 4072696	  16	 145	     jbd2/mmcblk0p28	J
+    0.414413958	C	WS	 4072712	   8	 145	     jbd2/mmcblk0p28	J
+    0.414508698	C	WS	 4072712	   0	 145	     jbd2/mmcblk0p28	J
+    0.415391198	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.415593021	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.417788594	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.417896354	C	WAS	 8596512	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.417956615	C	WAS	23485984	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.418095938	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.418933229	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.419067031	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.422526198	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.422595312	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.422748385	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.423961562	C	WAS	 4072720	  16	 145	     jbd2/mmcblk0p28	J
+    0.424821302	C	WS	 4072736	   8	 145	     jbd2/mmcblk0p28	J
+    0.424876093	C	WS	 4072736	   0	 145	     jbd2/mmcblk0p28	J
+    0.425752813	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.425890261	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.428066302	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.428136302	C	WAS	 8596504	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.428245469	C	WAS	 8596576	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.428395208	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.429249271	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.429390365	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.432068177	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.432177239	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.432327760	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.433167239	C	WAS	 4072744	  16	 145	     jbd2/mmcblk0p28	J
+    0.434082812	C	WS	 4072760	   8	 145	     jbd2/mmcblk0p28	J
+    0.434137604	C	WS	 4072760	   0	 145	     jbd2/mmcblk0p28	J
+    0.434989948	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.435127552	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.437317865	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.437385990	C	WAS	24071368	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.437452292	C	WAS	 8599912	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.437592396	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.438443333	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.438583125	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.441216823	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.441284844	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.441434323	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.442343958	C	WAS	 4072768	  16	 145	     jbd2/mmcblk0p28	J
+    0.443214635	C	WS	 4072784	   8	 145	     jbd2/mmcblk0p28	J
+    0.443268646	C	WS	 4072784	   0	 145	     jbd2/mmcblk0p28	J
+    0.444168645	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.444305104	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.446516719	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.446584271	C	WAS	 8599824	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.446691667	C	WAS	 8599960	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.446831771	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.447669011	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.447808958	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.450507812	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.450576354	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.450715208	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.451919739	C	WAS	 4072792	  16	 145	     jbd2/mmcblk0p28	J
+    0.452818750	C	WS	 4072808	   8	 145	     jbd2/mmcblk0p28	J
+    0.452873177	C	WS	 4072808	   0	 145	     jbd2/mmcblk0p28	J
+    0.453713906	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.453850312	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.456090677	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.456159271	C	WAS	 8596480	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.456226250	C	WAS	 8599992	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.456357031	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.457256719	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.457397396	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.460035469	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.460103385	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.460252604	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.461491198	C	WAS	 4072816	  16	 145	     jbd2/mmcblk0p28	J
+    0.462356250	C	WS	 4072832	   8	 145	     jbd2/mmcblk0p28	J
+    0.462410781	C	WS	 4072832	   0	 145	     jbd2/mmcblk0p28	J
+    0.463282135	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.463412604	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.465586250	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.465654531	C	WAS	 8596496	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.465761927	C	WAS	 8596600	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.465901250	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.466748646	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.466886927	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.469584271	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.469652969	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.469801562	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.470696302	C	WAS	 4072840	  16	 145	     jbd2/mmcblk0p28	J
+    0.471636823	C	WS	 4072856	   8	 145	     jbd2/mmcblk0p28	J
+    0.471691041	C	WS	 4072856	   0	 145	     jbd2/mmcblk0p28	J
+    0.472543021	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.472679010	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.474855833	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.474924635	C	WAS	 8596488	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.474991718	C	WAS	 8596544	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.475132552	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.476026406	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.476167656	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.479148229	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.479258854	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.479408437	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.480268281	C	WAS	 4072864	  16	 145	     jbd2/mmcblk0p28	J
+    0.481147031	C	WS	 4072880	   8	 145	     jbd2/mmcblk0p28	J
+    0.481241979	C	WS	 4072880	   0	 145	     jbd2/mmcblk0p28	J
+    0.482097344	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.482234635	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.484424479	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.484531562	C	WAS	 8599920	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.484592916	C	WAS	23485984	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.484734062	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.485563334	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.485703802	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.488742344	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.488810104	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.488958125	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.489848229	C	WAS	 4072888	  16	 145	     jbd2/mmcblk0p28	J
+    0.490750260	C	WS	 4072904	   8	 145	     jbd2/mmcblk0p28	J
+    0.490805417	C	WS	 4072904	   0	 145	     jbd2/mmcblk0p28	J
+    0.491658802	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.491797291	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.493978698	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.494045885	C	WAS	 8596520	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.494112135	C	WAS	 8599824	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.494252135	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.495141250	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.495281562	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.498809271	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.498918073	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.499065573	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.499949531	C	WAS	 4072912	  16	 145	     jbd2/mmcblk0p28	J
+    0.500802396	C	WS	 4072928	   8	 145	     jbd2/mmcblk0p28	J
+    0.500896719	C	WS	 4072928	   0	 145	     jbd2/mmcblk0p28	J
+    0.501753177	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.501889479	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.504044218	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.504152083	C	WAS	 8596568	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.504219114	C	WAS	 8599872	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.504359375	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.505217708	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.505358229	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.508422396	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.508490365	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.508640938	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.509522083	C	WAS	 4072936	  16	 145	     jbd2/mmcblk0p28	J
+    0.516714896	C	WS	 4072952	   8	 145	     jbd2/mmcblk0p28	J
+    0.516768959	C	WS	 4072952	   0	 145	     jbd2/mmcblk0p28	J
+    0.517663386	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.517803333	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.519971302	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.520039375	C	WAS	24071384	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.520106667	C	WAS	 8596600	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.520245208	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.521135573	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.521274739	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.524313802	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.524433958	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.524581041	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.525494167	C	WAS	 4072960	  16	 145	     jbd2/mmcblk0p28	J
+    0.526352136	C	WS	 4072976	   8	 145	     jbd2/mmcblk0p28	J
+    0.526445990	C	WS	 4072976	   0	 145	     jbd2/mmcblk0p28	J
+    0.527350938	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.527488438	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.529635104	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.529744062	C	WAS	 8599816	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.529811562	C	WAS	 8599968	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.529943333	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.530752864	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.530893437	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.533590781	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.533659531	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.533809583	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.534747604	C	WAS	 4072984	  16	 145	     jbd2/mmcblk0p28	J
+    0.535617917	C	WS	 4073000	   8	 145	     jbd2/mmcblk0p28	J
+    0.535673073	C	WS	 4073000	   0	 145	     jbd2/mmcblk0p28	J
+    0.536590834	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.536727448	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.538928906	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.538997292	C	WAS	 8596592	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.539098177	C	WAS	23485960	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.539238437	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.540054375	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.540194844	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.542851562	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.542961093	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.543111875	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.544011823	C	WAS	 4073008	  16	 145	     jbd2/mmcblk0p28	J
+    0.544879166	C	WS	 4073024	   8	 145	     jbd2/mmcblk0p28	J
+    0.544974166	C	WS	 4073024	   0	 145	     jbd2/mmcblk0p28	J
+    0.545844219	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.545979948	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.548230938	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.548339427	C	WAS	 8599864	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.548400260	C	WAS	23485976	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.548540365	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.549366510	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.549506979	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.552191198	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.552259844	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.552405208	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.553673385	C	WAS	 4073032	  16	 145	     jbd2/mmcblk0p28	J
+    0.554552031	C	WS	 4073048	   8	 145	     jbd2/mmcblk0p28	J
+    0.554606145	C	WS	 4073048	   0	 145	     jbd2/mmcblk0p28	J
+    0.555540625	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.555670521	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.557852917	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.557920833	C	WAS	 8599872	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.558021927	C	WAS	23485968	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.558162344	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.558990521	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.559130833	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.561761771	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.561870521	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.562016562	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.562897031	C	WAS	 4073056	  16	 145	     jbd2/mmcblk0p28	J
+    0.563772395	C	WS	 4073072	   8	 145	     jbd2/mmcblk0p28	J
+    0.563867968	C	WS	 4073072	   0	 145	     jbd2/mmcblk0p28	J
+    0.564760000	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.564895937	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.567046979	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.567155208	C	WAS	 8596520	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.567222969	C	WAS	 8596544	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.567361667	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.568270573	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.568409375	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.571497916	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.571567344	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.571718802	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.572643385	C	WAS	 4073080	  16	 145	     jbd2/mmcblk0p28	J
+    0.573508958	C	WS	 4073096	   8	 145	     jbd2/mmcblk0p28	J
+    0.573564114	C	WS	 4073096	   0	 145	     jbd2/mmcblk0p28	J
+    0.574489218	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.574627135	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.576780938	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.576849323	C	WAS	 8599832	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.576957448	C	WAS	 8599952	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.577086823	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.577894115	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.578034427	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.580686146	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.580792396	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.580941979	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.581847864	C	WAS	 4073104	  16	 145	     jbd2/mmcblk0p28	J
+    0.582712604	C	WS	 4073120	   8	 145	     jbd2/mmcblk0p28	J
+    0.582807343	C	WS	 4073120	   0	 145	     jbd2/mmcblk0p28	J
+    0.583681510	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.583817604	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.586047188	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.586116042	C	WAS	24071368	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.586182969	C	WAS	 8596536	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.586323073	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.587207240	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.587347708	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.590096042	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.590164010	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.590313854	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.591260521	C	WAS	 4073128	  16	 145	     jbd2/mmcblk0p28	J
+    0.592138333	C	WS	 4073144	   8	 145	     jbd2/mmcblk0p28	J
+    0.592193854	C	WS	 4073144	   0	 145	     jbd2/mmcblk0p28	J
+    0.593108177	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.593244166	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.595454323	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.595558594	C	WAS	 8596520	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.595665261	C	WAS	 8599824	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.595794896	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.596663750	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.596804792	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.599485365	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.599553490	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.599692344	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.600907396	C	WAS	 4073152	  16	 145	     jbd2/mmcblk0p28	J
+    0.601819635	C	WS	 4073168	   8	 145	     jbd2/mmcblk0p28	J
+    0.601874219	C	WS	 4073168	   0	 145	     jbd2/mmcblk0p28	J
+    0.602761041	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.602897500	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.605079375	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.605147968	C	WAS	24071352	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.605214531	C	WAS	 8599864	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.605354322	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.606273177	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.606413542	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.609077552	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.609146146	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.609295208	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.610223281	C	WAS	 4073176	  16	 145	     jbd2/mmcblk0p28	J
+    0.611094375	C	WS	 4073192	   8	 145	     jbd2/mmcblk0p28	J
+    0.611149062	C	WS	 4073192	   0	 145	     jbd2/mmcblk0p28	J
+    0.612078437	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.612214271	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.614346718	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.614414531	C	WAS	 8599832	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.614523125	C	WAS	 8599968	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.614663229	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.615487084	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.615626302	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.618695156	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.618764792	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.618913490	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.626424948	C	WAS	 4073200	  16	 145	     jbd2/mmcblk0p28	J
+    0.627379792	C	WS	 4073216	   8	 145	     jbd2/mmcblk0p28	J
+    0.627434323	C	WS	 4073216	   0	 145	     jbd2/mmcblk0p28	J
+    0.628337865	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.628479688	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.630701458	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.630768489	C	WAS	24071392	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.630829792	C	WAS	23485976	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.630969948	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.631840833	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.631981146	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.634987708	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.635056458	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.635202656	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.636081875	C	WAS	 4073224	  16	 145	     jbd2/mmcblk0p28	J
+    0.636948333	C	WS	 4073240	   8	 145	     jbd2/mmcblk0p28	J
+    0.637003333	C	WS	 4073240	   0	 145	     jbd2/mmcblk0p28	J
+    0.637909688	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.638045365	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.640409167	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.640517031	C	WAS	 8596576	  16	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.640661771	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.641512916	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.641653437	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.644235156	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.644342500	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.644489270	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.645339218	C	WAS	 4073248	  16	 145	     jbd2/mmcblk0p28	J
+    0.646207552	C	WS	 4073264	   8	 145	     jbd2/mmcblk0p28	J
+    0.646301198	C	WS	 4073264	   0	 145	     jbd2/mmcblk0p28	J
+    0.647167865	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.647303490	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.649454687	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.649562604	C	WAS	 8596592	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.649629427	C	WAS	 8599976	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.649770000	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.650632187	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.650772656	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.653462291	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.653530104	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.653679687	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.654606822	C	WAS	 4073272	  16	 145	     jbd2/mmcblk0p28	J
+    0.655481250	C	WS	 4073288	   8	 145	     jbd2/mmcblk0p28	J
+    0.655536094	C	WS	 4073288	   0	 145	     jbd2/mmcblk0p28	J
+    0.656437813	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.656573594	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.658769635	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.658838385	C	WAS	 8596584	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.658939687	C	WAS	23485976	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.659079844	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.659904948	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.660045573	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.662691198	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.662799843	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.662949948	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.663809166	C	WAS	 4073296	  16	 145	     jbd2/mmcblk0p28	J
+    0.664680468	C	WS	 4073312	   8	 145	     jbd2/mmcblk0p28	J
+    0.664775104	C	WS	 4073312	   0	 145	     jbd2/mmcblk0p28	J
+    0.665617188	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.665752292	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.667989167	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.668097500	C	WAS	 8596552	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.668164635	C	WAS	 8596592	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.668302760	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.669192917	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.669328802	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.671963854	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.672032291	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.672181823	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.673395416	C	WAS	 4073320	  16	 145	     jbd2/mmcblk0p28	J
+    0.674283333	C	WS	 4073336	   8	 145	     jbd2/mmcblk0p28	J
+    0.674338281	C	WS	 4073336	   0	 145	     jbd2/mmcblk0p28	J
+    0.675271875	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.675407656	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.677574948	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.677643438	C	WAS	24071368	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.677745521	C	WAS	23485984	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.677884740	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.678718542	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.678854687	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.681851927	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.681961823	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.682109323	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.682941771	C	WAS	 4073344	  16	 145	     jbd2/mmcblk0p28	J
+    0.683809635	C	WS	 4073360	   8	 145	     jbd2/mmcblk0p28	J
+    0.683905000	C	WS	 4073360	   0	 145	     jbd2/mmcblk0p28	J
+    0.684762604	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.684899947	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.687114948	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.687181198	C	WAS	 8599832	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.687241875	C	WAS	23485952	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.687380781	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.688259531	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.688392604	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.691371198	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.691439635	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.691586510	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.692494843	C	WAS	 4073368	  16	 145	     jbd2/mmcblk0p28	J
+    0.693378333	C	WS	 4073384	   8	 145	     jbd2/mmcblk0p28	J
+    0.693432760	C	WS	 4073384	   0	 145	     jbd2/mmcblk0p28	J
+    0.694321614	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.694459062	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.696616719	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.696684844	C	WAS	 8596488	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.696790938	C	WAS	 8599920	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.696932761	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.697805625	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.697972604	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.700894531	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.701003229	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.701161771	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.702040469	C	WAS	 4073392	  16	 145	     jbd2/mmcblk0p28	J
+    0.702963958	C	WS	 4073408	   8	 145	     jbd2/mmcblk0p28	J
+    0.703019218	C	WS	 4073408	   0	 145	     jbd2/mmcblk0p28	J
+    0.703864479	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.704015781	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.706216250	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.706283906	C	WAS	 8599920	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.706343542	C	WAS	 8599992	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.706482240	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.707336563	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.707491042	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.710521562	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.710589531	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.710748750	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.711998541	C	WAS	 4073416	  16	 145	     jbd2/mmcblk0p28	J
+    0.712860260	C	WS	 4073432	   8	 145	     jbd2/mmcblk0p28	J
+    0.712915104	C	WS	 4073432	   0	 145	     jbd2/mmcblk0p28	J
+    0.713796562	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.713947239	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.716090365	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.716158334	C	WAS	 8596592	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.716260938	C	WAS	 8599944	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.716410469	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.717303698	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.717456875	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.720322604	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.720392083	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.720553333	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.721757500	C	WAS	 4073440	  16	 145	     jbd2/mmcblk0p28	J
+    0.722665468	C	WS	 4073456	   8	 145	     jbd2/mmcblk0p28	J
+    0.722720312	C	WS	 4073456	   0	 145	     jbd2/mmcblk0p28	J
+    0.723564583	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.723715260	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.726054427	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.726122031	C	WAS	 8600008	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.726182084	C	WAS	23485952	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.726316823	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.727171146	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.727325313	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.729856927	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.729925521	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.730083750	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.737838021	C	WAS	 4073464	  16	 145	     jbd2/mmcblk0p28	J
+    0.738698073	C	WS	 4073480	   8	 145	     jbd2/mmcblk0p28	J
+    0.738752031	C	WS	 4073480	   0	 145	     jbd2/mmcblk0p28	J
+    0.739672708	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.739822968	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.741931718	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.742046874	C	WAS	 8596560	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.742119427	C	WAS	 8600008	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.742276770	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.743115208	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.743271614	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.745846822	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.745922760	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.746102916	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.746984114	C	WAS	 4073488	  16	 145	     jbd2/mmcblk0p28	J
+    0.747889739	C	WS	 4073504	   8	 145	     jbd2/mmcblk0p28	J
+    0.747944166	C	WS	 4073504	   0	 145	     jbd2/mmcblk0p28	J
+    0.748818749	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.748972551	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.751129530	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.751204114	C	WAS	 8599848	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.751277030	C	WAS	 8599952	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.751434478	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.752256041	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.752413488	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.755028176	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.755145051	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.755333332	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.756287916	C	WS	 4073512	   8	 145	     jbd2/mmcblk0p28	J
+    0.756342135	C	WS	 4073512	   0	 145	     jbd2/mmcblk0p28	J
+    0.757262603	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.757419739	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.759527760	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.759602082	C	WAS	24071368	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.759716562	C	WAS	 8600008	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.759873489	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.760678020	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.760834687	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.763693228	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.763810416	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.763998801	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.764895936	C	WAS	 4073520	  16	 145	     jbd2/mmcblk0p28	J
+    0.765753437	C	WS	 4073536	   8	 145	     jbd2/mmcblk0p28	J
+    0.765848906	C	WS	 4073536	   0	 145	     jbd2/mmcblk0p28	J
+    0.766725364	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.766876927	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.768981041	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.769096458	C	WAS	 8596592	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.769169635	C	WAS	 8599816	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.769325676	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.770239687	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.770395208	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.772920572	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.772999426	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.773175885	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.774119635	C	WAS	 4073544	  16	 145	     jbd2/mmcblk0p28	J
+    0.774994322	C	WS	 4073560	   8	 145	     jbd2/mmcblk0p28	J
+    0.775049010	C	WS	 4073560	   0	 145	     jbd2/mmcblk0p28	J
+    0.775954062	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.776108802	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.778232343	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.778307968	C	WAS	 8596600	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.778421093	C	WAS	 8599872	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.778570208	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.779407395	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.779564270	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.782176249	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.782251718	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.782441093	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.783656718	C	WAS	 4073568	  16	 145	     jbd2/mmcblk0p28	J
+    0.784567291	C	WS	 4073584	   8	 145	     jbd2/mmcblk0p28	J
+    0.784622187	C	WS	 4073584	   0	 145	     jbd2/mmcblk0p28	J
+    0.785505156	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.785659687	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.787815520	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.787890104	C	WAS	 8599832	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.787963333	C	WAS	 8599888	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.788120156	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.788970572	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.789127551	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.791980312	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.792056093	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.792243489	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.793182187	C	WAS	 4073592	  16	 145	     jbd2/mmcblk0p28	J
+    0.794028645	C	WS	 4073608	   8	 145	     jbd2/mmcblk0p28	J
+    0.794124114	C	WS	 4073608	   0	 145	     jbd2/mmcblk0p28	J
+    0.795502968	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.795650156	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.797784687	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.797901249	C	WAS	 8599992	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.797961458	C	WAS	23485952	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.798120312	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.798907864	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.799064895	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.801617031	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.801693281	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.801859687	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.802763593	C	WAS	 4073616	  16	 145	     jbd2/mmcblk0p28	J
+    0.803688801	C	WS	 4073632	   8	 145	     jbd2/mmcblk0p28	J
+    0.803744583	C	WS	 4073632	   0	 145	     jbd2/mmcblk0p28	J
+    0.804607395	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.804760832	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.806917447	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.806992447	C	WAS	 8596560	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.807065729	C	WAS	 8599944	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.807223124	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.808104947	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.808261874	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.810882239	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.810999583	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.811187864	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.812406822	C	WAS	 4073640	  16	 145	     jbd2/mmcblk0p28	J
+    0.813279895	C	WS	 4073656	   8	 145	     jbd2/mmcblk0p28	J
+    0.813376197	C	WS	 4073656	   0	 145	     jbd2/mmcblk0p28	J
+    0.814256614	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.814410676	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.816532656	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.816648906	C	WAS	24071352	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.816721874	C	WAS	 8596520	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.816877968	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.817722031	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.817877656	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.820466353	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.820543853	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.820727031	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.821978124	C	WAS	 4073664	  16	 145	     jbd2/mmcblk0p28	J
+    0.822853072	C	WS	 4073680	   8	 145	     jbd2/mmcblk0p28	J
+    0.822907187	C	WS	 4073680	   0	 145	     jbd2/mmcblk0p28	J
+    0.823881197	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.824026301	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.826176041	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.826243645	C	WAS	 8599928	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.826330364	C	WAS	23485944	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.826469479	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.827267031	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.827400937	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.830188176	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.830289583	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.830455937	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.831345260	C	WAS	 4073688	  16	 145	     jbd2/mmcblk0p28	J
+    0.832181978	C	WS	 4073704	   8	 145	     jbd2/mmcblk0p28	J
+    0.832263072	C	WS	 4073704	   0	 145	     jbd2/mmcblk0p28	J
+    0.833121353	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.833253437	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.835309478	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.835429635	C	WAS	24071352	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.835494531	C	WAS	24071376	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.835630729	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.836414531	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.836547864	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.839440208	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.839505885	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.839668749	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.847248124	C	WAS	 4073712	  16	 145	     jbd2/mmcblk0p28	J
+    0.848111510	C	WS	 4073728	   8	 145	     jbd2/mmcblk0p28	J
+    0.848159010	C	WS	 4073728	   0	 145	     jbd2/mmcblk0p28	J
+    0.849054583	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.849188072	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.851303437	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.851368280	C	WAS	 8596592	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.851455208	C	WAS	23485984	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.851591874	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.852380103	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.852513645	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.854930155	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.855031405	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.855194270	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.856030989	C	WAS	 4073736	  16	 145	     jbd2/mmcblk0p28	J
+    0.856872916	C	WS	 4073752	   8	 145	     jbd2/mmcblk0p28	J
+    0.856956249	C	WS	 4073752	   0	 145	     jbd2/mmcblk0p28	J
+    0.857784739	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.857917968	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.860006458	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.860072031	C	WAS	 8596496	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.860135885	C	WAS	 8599912	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.860271770	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.861622395	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.861757812	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.864279114	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.864344114	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.864505937	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.865425468	C	WAS	 4073760	  16	 145	     jbd2/mmcblk0p28	J
+    0.866274427	C	WS	 4073776	   8	 145	     jbd2/mmcblk0p28	J
+    0.866321302	C	WS	 4073776	   0	 145	     jbd2/mmcblk0p28	J
+    0.867187499	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.867318593	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.869378958	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.869443385	C	WAS	 8599872	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.869540885	C	WAS	 8599976	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.869674999	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.870461041	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.870592812	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.873442447	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.873509218	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.873672447	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.874539791	C	WAS	 4073784	  16	 145	     jbd2/mmcblk0p28	J
+    0.875435104	C	WS	 4073800	   8	 145	     jbd2/mmcblk0p28	J
+    0.875486666	C	WS	 4073800	   0	 145	     jbd2/mmcblk0p28	J
+    0.876314791	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.876447343	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.878547812	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.878612135	C	WAS	 8596480	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.878675833	C	WAS	 8599960	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.878811145	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.879658958	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.879791978	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.882650572	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.882716041	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.882879791	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.883778749	C	WAS	 4073808	  16	 145	     jbd2/mmcblk0p28	J
+    0.884607187	C	WS	 4073824	   8	 145	     jbd2/mmcblk0p28	J
+    0.884653749	C	WS	 4073824	   0	 145	     jbd2/mmcblk0p28	J
+    0.885515468	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.885648437	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.887728749	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.887794426	C	WAS	 8596504	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.887893801	C	WAS	 8599808	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.888029218	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.888855624	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.888989270	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.891838645	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.891904947	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.892066249	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.892929426	C	WAS	 4073832	  16	 145	     jbd2/mmcblk0p28	J
+    0.893791145	C	WS	 4073848	   8	 145	     jbd2/mmcblk0p28	J
+    0.893839062	C	WS	 4073848	   0	 145	     jbd2/mmcblk0p28	J
+    0.894657499	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.894788957	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.896913802	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.896978854	C	WAS	 8599840	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.897042395	C	WAS	 8599960	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.897177812	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.897981666	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.898114895	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.900689062	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.900754947	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.900916197	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.901801458	C	WAS	 4073856	  16	 145	     jbd2/mmcblk0p28	J
+    0.902654270	C	WS	 4073872	   8	 145	     jbd2/mmcblk0p28	J
+    0.902702187	C	WS	 4073872	   0	 145	     jbd2/mmcblk0p28	J
+    0.903563541	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.903695572	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.905782083	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.905883072	C	WAS	24071376	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.905946770	C	WAS	 8596512	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.906082239	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.906906458	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.907039843	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.909819999	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.909885520	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.910046926	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.910885833	C	WAS	 4073880	  16	 145	     jbd2/mmcblk0p28	J
+    0.911754530	C	WS	 4073896	   8	 145	     jbd2/mmcblk0p28	J
+    0.911802030	C	WS	 4073896	   0	 145	     jbd2/mmcblk0p28	J
+    0.912621874	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.912753541	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.914874062	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.914938541	C	WAS	 8599832	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.914989947	C	WAS	23485944	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.915126249	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.915925781	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.916058229	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.918557812	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.918659322	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.918824374	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.919672343	C	WAS	 4073904	  16	 145	     jbd2/mmcblk0p28	J
+    0.920513749	C	WS	 4073920	   8	 145	     jbd2/mmcblk0p28	J
+    0.920595416	C	WS	 4073920	   0	 145	     jbd2/mmcblk0p28	J
+    0.921420728	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.921671718	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.923760207	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.923861301	C	WAS	 8596488	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.923925468	C	WAS	 8596528	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.924062030	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.924882760	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.925016197	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.927910156	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.927975729	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.928140833	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.928979478	C	WAS	 4073928	  16	 145	     jbd2/mmcblk0p28	J
+    0.929842291	C	WS	 4073944	   8	 145	     jbd2/mmcblk0p28	J
+    0.929889583	C	WS	 4073944	   0	 145	     jbd2/mmcblk0p28	J
+    0.930708801	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.930840833	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.932973280	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.933038072	C	WAS	 8599832	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.933101093	C	WAS	 8599920	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.933236562	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.934034947	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.934167916	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.937016718	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.937118437	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.937279374	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.938131770	C	WAS	 4073952	  16	 145	     jbd2/mmcblk0p28	J
+    0.938983593	C	WS	 4073968	   8	 145	     jbd2/mmcblk0p28	J
+    0.939065937	C	WS	 4073968	   0	 145	     jbd2/mmcblk0p28	J
+    0.939899062	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.940030624	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.942141822	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.942242760	C	WAS	24071384	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.942294999	C	WAS	23485968	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.942430989	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.943217082	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.943350207	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.946144635	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.946210885	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.946373749	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.953755780	C	WAS	 4073976	  16	 145	     jbd2/mmcblk0p28	J
+    0.954638228	C	WS	 4073992	   8	 145	     jbd2/mmcblk0p28	J
+    0.954684947	C	WS	 4073992	   0	 145	     jbd2/mmcblk0p28	J
+    0.955558385	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.955690989	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.957839895	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.957904218	C	WAS	 8596520	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.958003124	C	WAS	 8599888	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.958139010	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.959016458	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.959149583	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.961553333	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.961653124	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.961814478	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.963022135	C	WAS	 4074000	  16	 145	     jbd2/mmcblk0p28	J
+    0.963877447	C	WS	 4074016	   8	 145	     jbd2/mmcblk0p28	J
+    0.963958124	C	WS	 4074016	   0	 145	     jbd2/mmcblk0p28	J
+    0.964816822	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.964951249	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.967063749	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.967163176	C	WAS	 8599840	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.967226354	C	WAS	 8600008	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.967360885	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.968146458	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.968278437	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.971045260	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.971110833	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.971272551	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.972246458	C	WAS	 4074024	  16	 145	     jbd2/mmcblk0p28	J
+    0.973075937	C	WS	 4074040	   8	 145	     jbd2/mmcblk0p28	J
+    0.973123385	C	WS	 4074040	   0	 145	     jbd2/mmcblk0p28	J
+    0.974019582	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.974151770	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.975656614	C	WAS	24071296	   8	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.975721406	C	WAS	24071384	  16	6682	      paperMobibench	D	/sdanlassaddnl/test.db0
+    0.975868854	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.976694843	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.976828020	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.979109843	C	WAS	24071288	   8	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.979176614	C	WAS	24071328	  24	106682	      paperMobibench	D	/sdanlassaddnl/test.db0-journal
+    0.979340260	C	WS	       0	   0	 122	             mmcqd/1	M
+    0.980257291	C	WAS	 4074048	  16	 145	     jbd2/mmcblk0p28	J
+    0.981084687	C	WS	 4074064	   8	 145	     jbd2/mmcblk0p28	J
+    0.981131822	C	WS
